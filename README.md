@@ -1,8 +1,6 @@
 # sudoku_solver
 WYWM Python Programming Fundamentals Project
 
-Final assignment project for WYWM Python Programming Fundamentals.
-
 ## Description
 Extracts a sudoku puzzle from a text file, solves the  puzzle then outputs the result to a text file.
 
